@@ -1,2 +1,5 @@
 # Project exclude paths
+.idea/
+!.idea/icon*.png
+*.iml
 /target/
